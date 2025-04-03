@@ -1,4 +1,4 @@
-The .CSV file was taken from external source https://archive.ics.uci.edu/dataset/228/sms+spam+collection 
+The .CSV file was taken from an external source https://archive.ics.uci.edu/dataset/228/sms+spam+collection 
 SMS Spam Collection v.1
 -------------------------
 
